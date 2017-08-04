@@ -4,13 +4,8 @@
 @import 'abstracts/variables';
 @import 'abstracts/helpers';
 
-// Include Vendors (Bootstrap, etc.) - I won't include Bootstrap for this
-// @import 'vendors/bootstrap'
-
 // Import Base
-@import 'base/reset';
 @import 'base/typography';
-@import 'base/framework';
 
 // Include Layout
 @import 'layout/navigation';
